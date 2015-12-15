@@ -1,0 +1,16 @@
+{
+  "name": "blog-server",
+  "version": "0.0.1",
+  "description": "yangxiaofu's blog server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yangxiaofu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "orm": "^2.1.29",
+    "mysql": "latest"
+  }
+}
